@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Because sometimes our peace of mind as parents comes down to simple bribery",
   "engines": {
-    "node": ">= 7.0.0"
+    "node": "12.14.1"
   },
   "main": "index.js",
   "scripts": {
